@@ -3,8 +3,7 @@ I am a CS student at the **Technical University of Cluj-Napoca**, interested in 
 I **enjoy** working on personal projects: small or big, practical or just for fun!
 \
 \
-Among improving my skills, I am open to **learning new things** every day. If someone needs my help with something that I am not the 
-best at, I will still **give my best to help** and maybe learn it better. 
+I'm always improving my skills and **love learning new things**. Even if I’m not the best at something yet, I’m **always willing to help** and use the opportunity to learn more.
 
 ## Skills 
 **Languages:** C/C++, Java, C#, JavaScript, Python, VHDL\
