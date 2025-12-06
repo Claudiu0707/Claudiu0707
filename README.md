@@ -27,7 +27,7 @@ best at, I will still **give my best to help** and maybe learn it better.
 <!-- ## Curently Learning -->
 
 
-## Featured Projects �️
+## Featured Projects 
 - **[Bluetooth Controller App](https://github.com/Claudiu0707/car-controller)** - Controls a small car (built using arduino) over Bluetooth
 - **[Locker Security System](https://github.com/Claudiu0707/locker-securing-system)** - A system to secure a locker using a 3 character code
 - **[Zamfirer 1](https://github.com/Claudiu0707/zamfirel-one)** - My first ever line follower
