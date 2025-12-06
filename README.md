@@ -6,28 +6,28 @@ I **enjoy** working on personal projects: small or big, practical or just for fu
 Among improving my skills, I am open to **learning new things** every day. If someone needs my help with something that I am not the 
 best at, I will still **give my best to help** and maybe learn it better. 
 
-## Skills 🛠️
+## Skills 
 **Languages:** C/C++, Java, C#, JavaScript, Python, VHDL\
 **Databases:** PostgreSQL
 
 ### What I like to work with
-#### Electronics 🤖
+#### Electronics 
 - Arduino
 - Sensors (IR, ultrasonic, accelerometer & gyroscope, etc.)
 - Servo & motor control
 
-#### Software </>
+#### Software 
 - Android Studio (Java)
 - Bluetooth
 - Automation apps
 
-#### Game Dev 👾
+#### Game Dev 
 - Unity
 
 <!-- ## Curently Learning -->
 
 
-## Featured Projects 🗂️
+## Featured Projects �️
 - **[Bluetooth Controller App](https://github.com/Claudiu0707/car-controller)** - Controls a small car (built using arduino) over Bluetooth
 - **[Locker Security System](https://github.com/Claudiu0707/locker-securing-system)** - A system to secure a locker using a 3 character code
 - **[Zamfirer 1](https://github.com/Claudiu0707/zamfirel-one)** - My first ever line follower
