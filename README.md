@@ -10,15 +10,15 @@ I'm always improving my skills and **love learning new things**. Even if I’m n
 **Databases:** PostgreSQL
 
 ### What I like to work with
-#### Electronics 
-- Arduino
-- Sensors (IR, ultrasonic, accelerometer & gyroscope, etc.)
-- Servo & motor control
-
 #### Software 
 - Android Studio (Java)
 - Bluetooth
 - Automation apps
+
+#### Electronics 
+- Arduino
+- Sensors (IR, ultrasonic, accelerometer & gyroscope, etc.)
+- Servo & motor control
 
 #### Game Dev 
 - Unity
