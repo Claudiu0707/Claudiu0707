@@ -5,14 +5,15 @@ I **enjoy** working on personal projects: small or big, practical or just for fu
 \
 I'm always improving my skills and **love learning new things**. Even if I’m not the best at something yet, I’m **always willing to help** and use the opportunity to learn more.
 
+
 ## Skills 
 **Languages:** C/C++, Java, C#, JavaScript, Python, VHDL\
 **Databases:** PostgreSQL
 
 ### What I like to work with
 #### Software 
-- Android Studio (Java)
-- Bluetooth
+- Android app development (Java)
+- Bluetooth communication & device integration
 - Automation apps
 
 #### Electronics 
